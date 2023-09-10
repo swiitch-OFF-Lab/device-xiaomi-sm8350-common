@@ -8,16 +8,21 @@ LOCAL_OVERRIDES_PACKAGES := \
     AmbientSensePrebuilt \
     Aperture \
     arcore \
+    CalculatorGoogle \
+    CalendarGoogle \
     Camera2 \
     Chrome \
     Chrome-Stub \
+    Chrome64 \
     ConnMO \
     ConnMetrics \
     DCMO \
     DevicePolicyPrebuilt \
     DMService \
     Drive \
+    Drive \
     GCS \
+    Gmail2 \
     GoogleCamera \
     Maps \
     Music \
@@ -28,6 +33,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     OemDmTrigger \
     OPScreenRecord \
     Ornament \
+    PersonalSafety \
     PixelLiveWallpaperPrebuilt \
     Photos \
     PlayAutoInstallConfig \
@@ -36,6 +42,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     SafetyHubPrebuilt \
     SCONE \
     ScribePrebuilt \
+    SafetyHubPrebuilt \
     Showcase \
     SoundAmplifierPrebuilt \
     SprintDM \
@@ -45,6 +52,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Videos \
     VZWAPNLib \
     VzwOmaTrigger \
+    Wellbeing \
     YouTube \
     YouTubeMusicPrebuilt
 LOCAL_UNINSTALLABLE_MODULE := true
